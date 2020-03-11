@@ -21,6 +21,8 @@ def aukerak(auk=0):
 	return aukera
 menu()
 auk=aukerak(auk=0)
+num1=int(input("Sartu zenbaki bat: "))
+num2=int(input("Sartu beste zenbaki bat: "))
 
 if(auk==1):
     Gehiketa()
