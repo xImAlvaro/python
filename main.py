@@ -1,7 +1,7 @@
 def menu():
 	#MENU DE OPCIONES
 	print("** ::::::::::::::::::::::::: **")
-	print(":: Aukeratu funtzio bat ::")
+	print(":: Aukeratu bi zenbakiren arteko eragiketa bat ::")
 	print("** ::::::::::::::::::::::::: **")
 	print("-------------------------------")
 	print("| Gehiketa:              ->  1     |")
