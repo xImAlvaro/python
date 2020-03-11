@@ -1,3 +1,8 @@
+from funtzioak import *
+from Gehiketa import *
+
+
+
 def menu():
 	#MENU DE OPCIONES
 	print("** ::::::::::::::::::::::::::::::::::::::::::::::**")
@@ -24,9 +29,17 @@ auk=aukerak(auk=0)
 
 
 if(auk==1):
-    print(Gehiketa())
+	print(Gehiketa())
 elif(auk==2):
-    print(Kenketa())
+	print(Kenketa())
+elif(auk==3):
+	print(Biderketa())
+elif(auk==4):
+	print(Zatiketa())
+elif(auk==5):
+	print(Berreketa())
+else:
+	print("Eskerrik asko kalkulagailua erabiltzeagatik!!")
 
 
 
