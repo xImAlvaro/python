@@ -1,8 +1,8 @@
 def menu():
 	#MENU DE OPCIONES
-	print("** ::::::::::::::::::::::::: **")
+	print("** ::::::::::::::::::::::::::::::::::::::::::::::**")
 	print(":: Aukeratu bi zenbakiren arteko eragiketa bat ::")
-	print("** ::::::::::::::::::::::::: **")
+	print("** :::::::::::::::::::::::::::::::::::::::::::::: **")
 	print("-------------------------------")
 	print("| Gehiketa:              ->  1     |")
 	print("| Kenketa:               ->  2     |")
